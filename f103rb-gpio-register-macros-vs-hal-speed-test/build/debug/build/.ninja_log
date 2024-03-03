@@ -1,0 +1,23 @@
+# ninja log v5
+19	188	7300759519283320	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Startup/startup_stm32f103rbtx.s.obj	ee84357d25877a68
+7	325	7300759520430813	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/sysmem.c.obj	499dbe6923cb6c7e
+25	414	7300759521502856	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	876b6a487e88c253
+1	117	7300788156924463	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/main.c.obj	4b4870590e8ab2f0
+90	551	7300759522997077	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	54856adccde32a61
+9	378	7300759521065405	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/stm32f1xx_it.c.obj	ff3bd75beade396f
+56	446	7300759521828636	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	633d5b6662f0ed3d
+60	406	7300759521433684	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	b0fb022c8260cf90
+34	412	7300759521502856	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	a354a1347b7f6c5e
+65	455	7300759521903808	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	7325b10e3c938631
+47	456	7300759521933802	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	dbec1a30589c1de9
+97	473	7300759522169300	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	8bf8e00a4270cd8f
+22	476	7300759522209402	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/system_stm32f1xx.c.obj	f21603119fd03f15
+42	477	7300759522199396	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	d7f4e70182b14cb7
+29	480	7300759522264504	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	d128125110ff7f81
+38	481	7300759522239410	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	9feb0207b5717170
+4	503	7300759522477816	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/stm32f1xx_hal_msp.c.obj	5ee3c40a7f5342c9
+13	583	7300759523350613	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Core/Src/syscalls.c.obj	e7e1e8527558d625
+52	504	7300759522477816	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	ab62ef87afde2871
+16	511	7300759522577912	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	23780ed42d13de59
+72	516	7300759522630154	CMakeFiles/f103rb-gpio-register-macros-vs-hal-speed-test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	507bac1dc1bfe908
+117	249	7300788157849615	f103rb-gpio-register-macros-vs-hal-speed-test.elf	16554a36fb0ca81a

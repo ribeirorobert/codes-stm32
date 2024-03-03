@@ -1,0 +1,3 @@
+C:/Users/rober/STM32CubeIDE/workspace_1.13.2/f103rb-debugging/build/debug/build/CMakeFiles/f103rb-debugging.dir
+C:/Users/rober/STM32CubeIDE/workspace_1.13.2/f103rb-debugging/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/rober/STM32CubeIDE/workspace_1.13.2/f103rb-debugging/build/debug/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "f103rb-systick-timer-delay-us",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "f103rb-systick-timer-delay-us::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-f103rb-systick-timer-delay-us-Debug-778ce1221398ed9f6a15.json",
+					"name" : "f103rb-systick-timer-delay-us",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rober/Desktop/stm-codes/f103rb-systick-timer-delay-us/build/debug/build",
+		"source" : "C:/Users/rober/Desktop/stm-codes/f103rb-systick-timer-delay-us"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

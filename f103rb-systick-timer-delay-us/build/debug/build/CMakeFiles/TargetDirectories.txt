@@ -1,0 +1,3 @@
+C:/Users/rober/Desktop/stm-codes/f103rb-systick-timer-delay-us/build/debug/build/CMakeFiles/f103rb-systick-timer-delay-us.dir
+C:/Users/rober/Desktop/stm-codes/f103rb-systick-timer-delay-us/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/rober/Desktop/stm-codes/f103rb-systick-timer-delay-us/build/debug/build/CMakeFiles/rebuild_cache.dir

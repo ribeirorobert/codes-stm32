@@ -1,0 +1,3 @@
+C:/Users/Rob/Downloads/stm-codes/f103rb-rotary-encoder-interfacing/build/debug/build/CMakeFiles/f103rb-rotary-encoder-interfacing.dir
+C:/Users/Rob/Downloads/stm-codes/f103rb-rotary-encoder-interfacing/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Rob/Downloads/stm-codes/f103rb-rotary-encoder-interfacing/build/debug/build/CMakeFiles/rebuild_cache.dir

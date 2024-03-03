@@ -1,0 +1,23 @@
+# ninja log v5
+25	528	7299112477308584	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Startup/startup_stm32f103rbtx.s.obj	e745fa8563ea71a7
+1996	3543	7299112507727133	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/stm32f1xx_hal_msp.c.obj	6638031ab0c0afe9
+1953	2967	7299112501873990	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/sysmem.c.obj	c9c39bf05f2ac3f7
+15	2064	7299112491953321	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/syscalls.c.obj	85432ab0dd0b081c
+5	1868	7299112487420661	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/stm32f1xx_it.c.obj	360f96f8dd8cfb8f
+1901	3676	7299112509672924	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/main.c.obj	80a75ece90ce5c3f
+101	1881	7299112489113179	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	a603e493f1273e24
+55	1966	7299112490600752	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	ecfeec31d8c21e17
+179	1952	7299112489568878	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	6286a5dc872f701d
+36	1839	7299112485185411	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Core/Src/system_stm32f1xx.c.obj	224a6c862317a17b
+114	2047	7299112490736151	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	fd2b425be3580805
+247	1900	7299112489343533	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	fba0df1a9ed6758d
+530	2077	7299112492590619	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	b8f450083afd086c
+1856	3917	7299112512117488	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	f65ef958dc39d47a
+1869	3398	7299112505823224	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	ea90fa18b0c91bc0
+2079	3904	7299112512012573	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	8613c1847c3b30d8
+46	1855	7299112486538970	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	4163a364da81a9e1
+1882	3541	7299112506840912	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	d0c9cdd61b98a391
+4105	4659	7299112518280013	f103rb-rotary-encoder-interfacing.elf	9f536f9b1dedbe88
+2065	3711	7299112509908723	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	646fbc2689d20e18
+1840	3289	7299112505151996	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	5fc90ef162e4605e
+2049	4104	7299112513985403	CMakeFiles/f103rb-rotary-encoder-interfacing.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	9aa1a68df6fd80c1
