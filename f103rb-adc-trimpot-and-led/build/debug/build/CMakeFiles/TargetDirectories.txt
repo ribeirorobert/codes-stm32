@@ -1,0 +1,3 @@
+C:/Users/Rob/OneDrive/Área de Trabalho/codes-stm32/f103rb-adc-trimpot-and-led/build/debug/build/CMakeFiles/f103rb-adc-trimpot-and-led.dir
+C:/Users/Rob/OneDrive/Área de Trabalho/codes-stm32/f103rb-adc-trimpot-and-led/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Rob/OneDrive/Área de Trabalho/codes-stm32/f103rb-adc-trimpot-and-led/build/debug/build/CMakeFiles/rebuild_cache.dir
